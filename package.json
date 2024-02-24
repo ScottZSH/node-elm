@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bailicangdu/node-elm"
+    "url": "git+https://github.com/ScottZSH/node-elm"
   },
   "dependencies": {
     "babel": "^6.23.0",
