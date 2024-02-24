@@ -5,7 +5,6 @@
   "main": "index.js",
   "author": "cangdu <1264889788@qq.com>",
   "license": "GPL",
-  "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development nodemon --harmony index.js",
     "check": "cross-env NODE_ENV=production nodemon --harmony index.js",
